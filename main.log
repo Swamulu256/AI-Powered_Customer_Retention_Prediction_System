@@ -1,0 +1,30 @@
+2026-01-08 16:20:18,370 - INFO - Data loaded successfully
+2026-01-08 16:20:18,370 - INFO - total rows in the data : 7043
+2026-01-08 16:20:18,370 - INFO - total columns in the data : 22
+2026-01-08 16:20:18,376 - INFO -  telecom_partner     0
+customerID          0
+gender              0
+SeniorCitizen       0
+Partner             0
+Dependents          0
+tenure              0
+PhoneService        0
+MultipleLines       0
+InternetService     0
+OnlineSecurity      0
+OnlineBackup        0
+DeviceProtection    0
+TechSupport         0
+StreamingTV         0
+StreamingMovies     0
+Contract            0
+PaperlessBilling    0
+PaymentMethod       0
+MonthlyCharges      0
+TotalCharges        0
+Churn               0
+dtype: int64
+2026-01-08 16:20:18,376 - INFO - Missing Values in Total Charges:0
+2026-01-08 16:20:18,377 - INFO - error in line no : 42:due to "['customer_ID'] not found in axis"
+2026-01-08 16:20:18,377 - INFO - start visualize
+2026-01-08 16:20:21,663 - INFO - visualize completed successfully
